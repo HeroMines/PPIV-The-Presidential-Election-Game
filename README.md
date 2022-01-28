@@ -1,0 +1,6 @@
+# PPIVR
+
+Power Politics IV is a presidential election game where players campaign for presidential candidates from 2000-2020. It's the spiritual successor to the original Power Politics. Choose which states to visit, which activities you do in those states, use money to fund advertisements, use polling and information to better coordinate your campaign, and so much more! The game is moddable, so you can add in new characters or customize old ones.  
+
+# License
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://grigori-krakowski.itch.io/power-politics-iv">Power Politics IV</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://grigori-krakowski.itch.io">Kevin Miller</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
