@@ -405,7 +405,7 @@ switch (purpose) {
 							break;
 							case 9:
 							text = other.ncan.home_state;
-							list = other.ncan;
+							list = obj_game.states_name_list;
 							break;
 							case 10:
 							text = other.ncan.gender;
